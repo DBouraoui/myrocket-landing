@@ -26,7 +26,9 @@ export default defineNuxtConfig({
     smtpPass: process.env.SMTP_PASS,
     smtpPort: process.env.SMTP_PORT,
   },
-
+  gtag: {
+    id: 'G-GNPYYRH5DL'
+  },
   modules: [
     '@nuxtjs/eslint-module',
     '@nuxt/icon',
@@ -34,6 +36,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/image',
     '@nuxt/ui',
+    'nuxt-gtag'
   ],
 
   plugins: [
