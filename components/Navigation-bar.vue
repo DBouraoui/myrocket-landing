@@ -3,9 +3,8 @@
 
     const itemsSidebar = [
       { label: 'Nos services', to: '/', active: true },
-      { label: 'Création de site web vitrine', to: '/about' },
-      { label: 'Création d\'applications web', to: '/contact' },
-      { label: 'Contactez nous', to: '/contact' }
+      { label: 'Création de site web vitrine', to: '/web-app' },
+      { label: 'Contactez nous', to: '/#contact' }
     ]
 
     const items = ref<NavigationMenuItem[]>([

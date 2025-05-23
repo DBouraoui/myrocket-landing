@@ -3,13 +3,13 @@
     <!-- Éléments décoratifs subtils -->
     <div class="absolute inset-0 pointer-events-none opacity-40">
       <!-- Motifs organiques -->
-      <div class="absolute top-20 left-10 w-32 h-32 bg-emerald-100 rounded-full blur-2xl"></div>
-      <div class="absolute bottom-20 right-20 w-40 h-40 bg-green-100 rounded-full blur-2xl"></div>
-      <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-24 h-24 bg-emerald-50 rounded-full blur-xl"></div>
+      <div class="absolute top-20 left-10 w-32 h-32 bg-emerald-100 rounded-full blur-2xl"/>
+      <div class="absolute bottom-20 right-20 w-40 h-40 bg-green-100 rounded-full blur-2xl"/>
+      <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-24 h-24 bg-emerald-50 rounded-full blur-xl"/>
 
       <!-- Lignes subtiles -->
-      <div class="absolute left-0 right-0 top-1/3 h-px bg-gradient-to-r from-transparent via-emerald-200 to-transparent"></div>
-      <div class="absolute left-0 right-0 bottom-1/3 h-px bg-gradient-to-r from-transparent via-emerald-200 to-transparent"></div>
+      <div class="absolute left-0 right-0 top-1/3 h-px bg-gradient-to-r from-transparent via-emerald-200 to-transparent"/>
+      <div class="absolute left-0 right-0 bottom-1/3 h-px bg-gradient-to-r from-transparent via-emerald-200 to-transparent"/>
     </div>
 
     <div class="container mx-auto px-4 relative z-10">
@@ -21,7 +21,7 @@
         </div>
 
         <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
-          Nous créons bien plus qu'un site web : <br/>
+          Nous créons bien plus qu'un site web : <br>
           <span class="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-green-500">le reflet authentique de votre entreprise</span>
         </h2>
 
@@ -128,10 +128,10 @@
             <div class="mt-6 p-4 bg-gray-50 rounded-xl">
               <div class="text-xs text-gray-500 mb-3">Exemple de palette créée :</div>
               <div class="flex gap-2">
-                <div class="w-8 h-8 rounded-lg bg-emerald-600 shadow-sm"></div>
-                <div class="w-8 h-8 rounded-lg bg-emerald-400 shadow-sm"></div>
-                <div class="w-8 h-8 rounded-lg bg-gray-800 shadow-sm"></div>
-                <div class="w-8 h-8 rounded-lg bg-gray-100 border border-gray-200 shadow-sm"></div>
+                <div class="w-8 h-8 rounded-lg bg-emerald-600 shadow-sm"/>
+                <div class="w-8 h-8 rounded-lg bg-emerald-400 shadow-sm"/>
+                <div class="w-8 h-8 rounded-lg bg-gray-800 shadow-sm"/>
+                <div class="w-8 h-8 rounded-lg bg-gray-100 border border-gray-200 shadow-sm"/>
               </div>
             </div>
           </div>
@@ -181,15 +181,15 @@
             <div class="mt-6 p-4 bg-gray-50 rounded-xl">
               <div class="text-xs text-gray-500 mb-2">Mise en valeur stratégique :</div>
               <div class="space-y-2">
-                <div class="h-2 w-full bg-emerald-200 rounded-full"></div>
-                <div class="h-2 w-3/4 bg-gray-200 rounded-full"></div>
-                <div class="h-2 w-5/6 bg-gray-200 rounded-full"></div>
+                <div class="h-2 w-full bg-emerald-200 rounded-full"/>
+                <div class="h-2 w-3/4 bg-gray-200 rounded-full"/>
+                <div class="h-2 w-5/6 bg-gray-200 rounded-full"/>
                 <div class="flex gap-1 mt-2">
                   <div class="w-6 h-6 bg-emerald-500 rounded-md flex items-center justify-center">
                     <Check class="h-3 w-3 text-white" />
                   </div>
-                  <div class="w-6 h-6 bg-emerald-400 rounded-md"></div>
-                  <div class="w-6 h-6 bg-emerald-300 rounded-md"></div>
+                  <div class="w-6 h-6 bg-emerald-400 rounded-md"/>
+                  <div class="w-6 h-6 bg-emerald-300 rounded-md"/>
                 </div>
               </div>
             </div>

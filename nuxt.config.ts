@@ -26,13 +26,14 @@ export default defineNuxtConfig({
     smtpPass: process.env.SMTP_PASS,
     smtpPort: process.env.SMTP_PORT,
   },
+
   modules: [
     '@nuxtjs/eslint-module',
     '@nuxt/icon',
     '@nuxt/fonts',
     '@nuxt/eslint',
     '@nuxt/image',
-    '@nuxt/ui'
+    '@nuxt/ui',
   ],
   plugins: [
     '~/plugins/vue-scrollto.js'

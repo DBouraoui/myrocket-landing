@@ -9,6 +9,8 @@ useSeoMeta({
   ogImage: 'https://myrocket.fr/logo.webp',
   twitterCard: 'summary_large_image',
 })
+const colorMode = useColorMode()
+colorMode.preference = 'dark'
 </script>
 
 <template>
