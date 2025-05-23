@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import NavigationBar from "~/components/Navigation-bar.vue";
 import FooterMenu from "~/components/Footer-menu.vue";
+import { SpeedInsights } from "@vercel/speed-insights/nuxt"
+
 useSeoMeta({
   title: 'MyRocket',
   ogTitle: 'MyRocket',
@@ -15,6 +17,7 @@ colorMode.preference = 'dark'
 
 <template>
   <UApp>
+    <SpeedInsights />
     <NuxtLoadingIndicator />
     <NavigationBar/>
     <NuxtPage/>

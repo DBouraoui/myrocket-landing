@@ -35,6 +35,7 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/ui',
   ],
+
   plugins: [
     '~/plugins/vue-scrollto.js'
   ]
