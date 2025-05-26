@@ -12,6 +12,11 @@ export default defineNuxtConfig({
       ]
     }
   },
+  nitro : {
+    prerender: {
+      routes: ['/', '/cgvu', '/webp-app'],
+    }
+  },
   compatibilityDate: '2025-05-22',
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
