@@ -14,7 +14,7 @@ export default defineNuxtConfig({
   },
   nitro : {
     prerender: {
-      routes: ['/', '/cgvu', '/webp-app'],
+      routes: ['/', '/cgvu', '/web-app'],
     }
   },
   compatibilityDate: '2025-05-22',
